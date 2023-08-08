@@ -55,5 +55,5 @@ public class Attendance {
     public void setCheckOutTime(LocalDateTime checkOutTime) {
         this.checkOutTime = checkOutTime;
     }
-    
+
 }
